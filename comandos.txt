@@ -1,0 +1,5 @@
+#Cria o projeto react
+npx create-react-app appreactjs
+
+#Inicia o servidor 
+npm run start
