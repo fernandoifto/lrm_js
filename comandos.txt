@@ -1,5 +1,11 @@
 #Cria o projeto react
 npx create-react-app appreactjs
 
+#dentro de appreactjs
+ npm install styled-components
+
 #Inicia o servidor 
 npm run start
+
+#Instalar biblioteca para requisições de API axios
+npm install axios
